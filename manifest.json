@@ -1,0 +1,12 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "BOOK Manager",
+  "name_for_model": "book_manager",
+  "description_for_human": "Manages yourBOOKs!",
+  "description_for_model": "An app for managing a user's BOOKs",
+  "api": { "url": "/openapi.json" },
+  "auth": { "type": "none" },
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Yes_Check_Circle.svg",
+  "legal_info_url": "http://example.com",
+  "contact_email": "hello@example.com"
+}
